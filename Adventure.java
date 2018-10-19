@@ -1,4 +1,5 @@
 //Michelle Vick
+//Simple Java
 import java.util.*;
 import java.io.*;
 public class Adventure {
