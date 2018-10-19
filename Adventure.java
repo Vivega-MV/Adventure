@@ -1,4 +1,4 @@
-//Michelle Vick - CS3250
+//Michelle Vick
 import java.util.*;
 import java.io.*;
 public class Adventure {
