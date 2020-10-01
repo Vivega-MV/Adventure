@@ -1,4 +1,6 @@
 //Michelle Vick
+//John Vick
+//10/1/2020
 import java.util.*;
 import java.io.*;
 public class Adventure {
