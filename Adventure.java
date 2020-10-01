@@ -1,4 +1,6 @@
 //Michelle Vick
+//John Vick
+//10/1/2020
 //Simple Java
 import java.util.*;
 import java.io.*;
