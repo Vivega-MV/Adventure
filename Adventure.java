@@ -1,6 +1,7 @@
 //Michelle Vick
 //John Vick
 //10/1/2020
+//Simple Java
 import java.util.*;
 import java.io.*;
 public class Adventure {
@@ -13,6 +14,7 @@ public class Adventure {
       //Get 1st user input
       System.out.println("What would you like to do?");     
       
+      //Init
       boolean keepGoing = true;
       int[] xyCoords = {0, 0};
       int x = 0, y = 1;
@@ -20,6 +22,7 @@ public class Adventure {
       String command1 = "";
       String parameter1 = "";
 
+      //Main loop
       do {        
         String direction1 = uInput.nextLine();
         direction1 = direction1.toUpperCase();
